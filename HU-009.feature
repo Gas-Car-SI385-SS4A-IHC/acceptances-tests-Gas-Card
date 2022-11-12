@@ -1,6 +1,6 @@
 Feature : Como conductor quiero que la gasolina entregada venga en un  embotellado con aplicador para que facilite el proceso de recarga de gasolina.
 
-    Escenario : Navegación Rápida
+    Escenario : Recargar la gasolina velozmente
 
         Given el usuario se encuentre en la opcion de si adquirir el aplicador o no
         Cuando el usuario seleccione la opcion si
