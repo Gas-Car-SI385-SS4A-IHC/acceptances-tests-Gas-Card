@@ -6,4 +6,8 @@ Feature :  Como usuario quiero que la app tenga una interfaz simple y que permit
         Entonces el sistema automaticamente realizara el pedido con el menor tiempo posible
         
         Ejemplos :
+            | Menu | Realizar pedidos |
+            | Gasolina Super Plus - 97 |   x   |
+            | Gasolina Super Plus - 95 |       |
+            | Gasolina Super Plus - 90 |       |
              
